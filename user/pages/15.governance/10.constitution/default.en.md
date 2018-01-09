@@ -66,7 +66,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. understand and accept the Constitution and the Collective Agreements.
 1. A person becomes a Volunteer based on a successful outcome from an Evaluation Procedure in which only Members and Volunteers can vote.
 1. A person ceases to be a Volunteer—
-	1. 3 months after becoming a Volunteer,
+	1. 90 days after becoming a Volunteer,
 	1. if they become a Member,
 	1. at their request, or
 	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
