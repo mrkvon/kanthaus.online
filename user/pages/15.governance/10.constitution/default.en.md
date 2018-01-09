@@ -29,7 +29,29 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
 
-### §5. Volunteer
+### §5. Positions
+1. Each resident in Kanthaus has one position.
+1. Positions are ordered hierarchically and come with different rights and duties.
+1. *Guest* (§6) is the lowest position. Every person coming to Kanthaus first is a Guest. Guests need to participate in an Evaluation Procedure (§9) after 14 days of residency. A guest can express the desire to become a Volunteer in or before their Evaluation.
+1. *Volunteer* (§7) is the middle position. Volunteers need to participate in an Evaluation Procedure (§9) after 90 days of residency as a Volunteer. A Volunteer can express the desire to become a Member in or before their Evaluation.
+1. *Member* (§8) is the highest position. Members need to participate in an Evaluation Procedure (§9) after 180 days of residency as a Member.
+
+### §6. Guest
+1. The position of Guest is intended for individuals who simply want to come by and spend some time in the space or with its residents.
+1. A Guest may—
+	1. reside in the space and use items located within the space,
+	1. participate in Operational Activity,
+1. A Guest should—
+	1. help out with day-to-day tasks.
+1. In order to become a Guest, a person must—
+	1. have contact to any resident, preferably a Volunteer or Member, who invites them into the space.
+	1. read and understand the [Visitor's Document](../about/visiting).
+1. A person ceases to be a Guest—
+	1. if they become a Volunteer,
+	1. at their request, or
+	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
+
+### §7. Volunteer
 1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
 1. A Volunteer may—
 	1. reside in the space and use items located within the space,
@@ -47,9 +69,9 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. 3 months after becoming a Volunteer,
 	1. if they become a Member,
 	1. at their request, or
-	1. if Conflict Resolution by Intervention (§11c.) prescribes it.
+	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
 
-### §6. Member
+### §8. Member
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
 1. A Member may—
 	1. reside in the space and use the other Resources,
@@ -64,25 +86,27 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. reaffirm they understand and accept the Constitution and Collective Agreements.
 1. A person becomes a Member based on a successful outcome from an Evaluation Procedure in which only Members can vote.
 1. A person ceases to be a Member—
-	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer,)
+	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer),
+	1. if the obligatory revaluation of membership (§5.5) is unsuccessful,
 	1. at their request (automatically switching to Volunteer,) or
-	1. if a Conflict Resolution by Intervention (§11c.) prescribes it.
+	1. if a Conflict Resolution by Intervention (§13c.) prescribes it.
 
-### §7. Evaluation Procedure
-1. Members, volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion.
-	1. they should indicate which position they desire
-	1. they will be asked about their ideas what to do at kanthaus
-	1. they will be tested
+### §9. Evaluation Procedure
+1. Members, volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion. This discussion consists of some or all of the following: The individual—
+	1. should indicate which position they desire.
+	1. will be asked about the role they see for themselves in the space.
+	1. may be tested on their understanding of Constitution and/or Collective Agreements.
+	1. is encouraged to inquire about anything they still need more clarity about with regards to the space and its residents.
 1. Following the discussion with the individual, the respective voters should meet privately.
 1. Before further discussion, the voters should take an anonymous test vote on whether the individual should be adopted at their desired position. They can ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
-1. Secondly participants should discuss the application and, in particular, raise and address any concerns.
-1. Finally participants should take a binding vote in the same fashion as the preliminary vote. This time—
-	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
-	1. else the application fails at that time.
-1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast.
+1. Now the voters should discuss and, in particular, raise and address any concerns.
+1. Finally the voters should take a binding vote in the same fashion as the test vote. This time—
+	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the evaluation is positive and the individual is granted their desired position, or
+	1. else the evaluation is negative at that time and the voting procedure starts anew for the respective lower position.
+1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast. The main points that have been talked about without the individual being present are to be conveyed as helpful feedback.
 
-### §8. Operational Activity
-#### §8a. Individual Action
+### §10. Operational Activity
+#### §10a. Individual Action
 1. Any individual may take action provided—
 	1. that there is no outstanding opposition towards the action, and
 	1. that they assume personal responsibility to practically reverse the action if required.
@@ -90,19 +114,19 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
 
-#### §8b. Unanimous Acceptance
+#### §10b. Unanimous Acceptance
 1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
 1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
 1. If Unanimous Acceptance cannot be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
 
-#### §8c. Score Voting
+#### §10c. Score Voting
 1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
 	1. the initial proposal and/or the generated proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
 1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
 
-### §9. Changing the Collective Agreements
+### §11. Changing the Collective Agreements
 1. Any addition, subtraction or other change to the Collective Agreements must be made according to the following procedure.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
 	1. has the support of at least 1 other Member or Volunteer, and
@@ -117,7 +141,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
 
-### §10. Changing the Constitution
+### §12. Changing the Constitution
 1. Any addition, subtraction or other change to the Constitution must be made using the following procedure.
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
 	1. has the support of at least 2 other Members, and
@@ -136,12 +160,12 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. else—
 		1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
 
-### §11. Conflict Resolution
-#### §11a. Direct
+### §13. Conflict Resolution
+#### §13a. Direct
 1. Individuals are generally encouraged to resolve their conflicts directly.
 1. There is no specific format for Direct Conflict Resolution. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
-#### §11b. Voluntary Assistance
+#### §13b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
 1. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including—
 	1. a third-party individual supporting a single actor ('support person',)
@@ -149,7 +173,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
 	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
 
-#### §11c. Intervention
+#### §13c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
 1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
