@@ -33,8 +33,8 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. Each resident in Kanthaus has one position.
 1. Positions are ordered hierarchically and come with different rights and duties.
 1. *Guest* (§6) is the lowest position. Every person coming to Kanthaus first is a Guest. Guests need to participate in an Evaluation Procedure (§9) after 14 days of residency. A guest can express the desire to become a Volunteer in or before their Evaluation.
-1. *Volunteer* (§7) is the middle position. Volunteers need to participate in an Evaluation Procedure (§9) after 90 days of residency as a Volunteer. A Volunteer can express the desire to become a Member in or before their Evaluation.
-1. *Member* (§8) is the highest position. Members need to participate in an Evaluation Procedure (§9) after 180 days of residency as a Member.
+1. *Volunteer* (§7) is the middle position. Volunteers need to participate in an Evaluation Procedure (§9) 90 days after becoming or having been reaffirmed as a Volunteer. A Volunteer can express the desire to become a Member in or before their Evaluation.
+1. *Member* (§8) is the highest position. Members need to participate in an Evaluation Procedure (§9) 180 days after becoming or having been reaffirmed as a Member.
 
 ### §6. Guest
 1. The position of Guest is intended for individuals who simply want to come by and spend some time in the space or with its residents.
@@ -52,7 +52,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
 
 ### §7. Volunteer
-1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
+1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become further involved.
 1. A Volunteer may—
 	1. reside in the space and use items located within the space,
 	1. participate in Operational Activity and change the Collective Agreements,
@@ -92,18 +92,18 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if a Conflict Resolution by Intervention (§13c.) prescribes it.
 
 ### §9. Evaluation Procedure
-1. Members, volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion. This discussion consists of some or all of the following: The individual—
+1. Members, Volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion. This discussion consists of some or all of the following: The individual—
 	1. should indicate which position they desire.
 	1. will be asked about the role they see for themselves in the space.
-	1. may be tested on their understanding of Constitution and/or Collective Agreements.
 	1. is encouraged to inquire about anything they still need more clarity about with regards to the space and its residents.
+	1. may be tested on their understanding of Constitution and/or Collective Agreements.
 1. Following the discussion with the individual, the respective voters should meet privately.
 1. Before further discussion, the voters should take an anonymous test vote on whether the individual should be adopted at their desired position. They can ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
 1. Now the voters should discuss and, in particular, raise and address any concerns.
 1. Finally the voters should take a binding vote in the same fashion as the test vote. This time—
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the evaluation is positive and the individual is granted their desired position, or
-	1. else the evaluation is negative at that time and the voting procedure starts anew for the respective lower position.
-1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast. The main points that have been talked about without the individual being present are to be conveyed as helpful feedback.
+	1. else the evaluation is negative at that time and the voting procedure starts anew for the respective lower position (cf. §5).
+1. The individual should promptly be informed whether their evaluation yielded a positive or negative result, but not the breakdown of which votes were cast. The main points that have been talked about without the individual being present are to be conveyed as helpful feedback.
 
 ### §10. Operational Activity
 #### §10a. Individual Action
