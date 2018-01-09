@@ -29,8 +29,6 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
 
-<p align="center"><i>Positions</i></p>
-
 ### §5. Volunteer
 1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
 1. A Volunteer may—
@@ -44,7 +42,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. In order to become a Volunteer, a person must—
 	1. have resided in the space for at least 14 days in total, and
 	1. understand and accept the Constitution and the Collective Agreements.
-1. A person becomes a Volunteer based on a successful outcome from an Application Procedure in which only Members and Volunteers should participate.
+1. A person becomes a Volunteer based on a successful outcome from an Evaluation Procedure in which only Members and Volunteers can vote.
 1. A person ceases to be a Volunteer—
 	1. 3 months after becoming a Volunteer,
 	1. if they become a Member,
@@ -64,17 +62,19 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. In order to become a Member, a person must—
 	1. have resided in the space as a Volunteer for at least 28 days in total, and
 	1. reaffirm they understand and accept the Constitution and Collective Agreements.
-1. A person becomes a Member based on a successful outcome from an Application Procedure in which only Members should participate.
+1. A person becomes a Member based on a successful outcome from an Evaluation Procedure in which only Members can vote.
 1. A person ceases to be a Member—
 	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer,)
 	1. at their request (automatically switching to Volunteer,) or
 	1. if a Conflict Resolution by Intervention (§11c.) prescribes it.
 
-<p align="center"><i>Procedures</i></p>
-
-### §7. Application Procedure
-1. The applicant must not be present during the procedure.
-1. Firstly participants should take a preliminary vote in which they anonymously express whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
+### §7. Evaluation Procedure
+1. Members, volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion.
+	1. they should indicate which position they desire
+	1. they will be asked about their ideas what to do at kanthaus
+	1. they will be tested
+1. Following the discussion with the individual, the respective voters should meet privately.
+1. Before further discussion, the voters should take an anonymous test vote on whether the individual should be adopted at their desired position. They can ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
 1. Secondly participants should discuss the application and, in particular, raise and address any concerns.
 1. Finally participants should take a binding vote in the same fashion as the preliminary vote. This time—
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
