@@ -114,28 +114,27 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 #### §10a. Individual Action
 1. Any person may take action provided—
 	1. there is no outstanding opposition towards it, and
-	1. they assume personal responsibility to practically reverse the action if required.
-1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
-1. Any person who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
-1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
+	1. they assume personal responsibility for it.
+1. There is no specific format for Individual Action. Depending on the situation it could be appropriate for a person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or to [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
+1. Any person who is opposed towards an Individual Action should communicate it early, clearly and kindly.
+1. If an Individual Action receives opposition it should be stopped and the individuals involved should proceed with Unanimous Acceptance (§10b.)
 
 #### §10b. Unanimous Acceptance
-1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
-1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
-1. If Unanimous Acceptance cannot be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
+1. Unanimous Acceptance towards an action is achieved when no person opposes it.
+1. There is no specific format for achieving Unanimous Acceptance. Many tools and techniques exist which may help, including: small-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
+1. If Unanimous Acceptance cannot be achieved in an acceptable time-frame, the individuals involved should proceed with Score Voting (§10c.). Proceeding to Score Voting should be done with Unanimous Acceptance, or failing that, by simple majority.
 
 #### §10c. Score Voting
-1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
-	1. the initial proposal and/or the generated proposals,
-	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
-	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
-1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
+1. Individuals should discuss the current situation and generate alternative proposals. Two control proposals are added to the list—
+	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
+	1. 'escalate procedure' (i.e. 'switch to Collective Change'.)
+1. The individuals then score the proposals as 'support’, ‘accept’ or ‘oppose'. The total score for each proposal is found by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3. The proposal with the highest total score is selected.
 
 ### §11. Changing the Collective Agreements
-1. Any addition, subtraction or other change to the Collective Agreements must be made according to the following procedure.
+1. All changes to the Collective Agreements must be using the following procedure.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
 	1. has the support of at least 1 other Member or Volunteer, and
-	1. is not contrary to any other Collective Change made within the last 6 days.
+	1. does not go against any other Collective Change made within the last 6 days.
 1. The primary phase of the procedure, lasts at least 3 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
 	1. the initial proposal and any alternative proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
@@ -147,10 +146,10 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. the Collective Agreements should be changed to reflect the decision.
 
 ### §12. Changing the Constitution
-1. Any addition, subtraction or other change to the Constitution must be made using the following procedure.
+1. All changes to the Constitution must be made using the following procedure.
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
 	1. has the support of at least 2 other Members, and
-	1. is not contrary to any other Constitutional Change made within the last 28 days.
+	1. does not go against any other Constitutional Change made within the last 28 days.
 1. The primary phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
 	1. the initial proposal and any other alternative proposals, and
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
