@@ -10,52 +10,52 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. The Operational layer describes _what actually happens_. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
 ### §2. Purposes
-1. To reduce waste and promote sharing.
-1. To develop and distribute free, libre and open-source software.
+1. To promote sharing and reduce waste.
+1. To develop free, libre and open-source software.
 1. To provide and connect public and common resources.
 1. To give what we can, take what need and facilitate others to do the same.
 1. To generally have a jolly good time.
 
 ### §3. Principles
-1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are—
+1. The principles guiding this Constitution are—
 	1. Autonomy—minimize coercion,
-	1. Equality—minimize inequality, and
-	1. Acceptance—minimize opposition.
-1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
+	1. Equivalence—minimize inequality, and
+	1. Acceptance—minimize conflict.
+1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those used by iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 ### §4. Resources
 1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](/governance/satzung_hauskantewurzen) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
-1. Haus Kante Wurzen w.V. itself.
+1. Haus Kante Wurzen w.V. itself. 
 
 ### §5. Positions
-1. Each resident in Kanthaus has one position.
-1. Positions are ordered hierarchically and come with different rights and duties.
-1. *Guest* (§6) is the lowest position. Every person coming to Kanthaus first is a Guest.
-1. *Volunteer* (§7) is the middle position.
-1. *Member* (§8) is the highest position.
+1. Every person at Kanthaus has one position.
+1. Positions have proportional reponsibilities and permissions. In ascending order these are—
+  1. Guest (§6),
+  1. Volunteer (§7), and
+  1. Member (§8).
 
 ### §6. Guest
 1. The position of Guest is intended for people who simply want to come by and spend some time in the space or with its residents.
 1. A Guest may—
 	1. reside in the space and use its resources, and
 	1. participate in Operational Activity.
-1. A Guest tacitly accepts the Constitution and Collective Agreements.
-1. A person first becomes a Guest simply by arriving. After this first time, a person becomes a Guest dependent on evaluation.
-1. Guests are warmly recommended to—
+1. A person first becomes a Guest simply by arriving.
+1. A Guest is warmly recommended to—
 	1. read the [Visitor's Document](../about/visiting), and
   1. communicate with a resident, preferably a Volunteer or Member, before arriving.
+1. A Guest is taken to implicitly accept the Constitution and Collective Agreements.
 1. A Guest should be evaluated as soon as possible after 14 days during which they may request to—
   1. continue as a Guest, or
   1. progress to Volunteer.
 1. A person ceases to be a Guest—
-	1. if they progree to Volunteer,
+	1. if they progress to Volunteer,
 	1. if they request it, or
 	1. if decided upon through Conflict Resolution by Intervention (§13c.)
 
 ### §7. Volunteer
-1. The position of Volunteer is intended for people who have already been involved in the project and wish to become further involved.
+1. The position of Volunteer is intended for people who are already involved and wish to become further committed.
 1. A Volunteer may—
 	1. reside in the space and use its resources,
 	1. participate in Operational Activity and change the Collective Agreements, and
@@ -110,16 +110,16 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. Finally the voters take a binding vote in the same way as the test vote. This time—
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the person is adopted at their requested position, or
 	1. else the evaluation returns to point 2. as if the person had requested the next lower position (cf. §5).
-1. The individual should promptly be informed whether their evaluation yielded a positive or negative result, but not the breakdown of which votes were cast. The main points that have been talked about without the individual being present are to be conveyed as helpful feedback.
+1. The person should promptly be informed whether their evaluation yielded a positive or negative result, but not the breakdown of which votes were cast. The main points that have been talked about without the person being present are to be conveyed as helpful feedback.
 
 
 ### §10. Operational Activity
 #### §10a. Individual Action
-1. Any individual may take action provided—
-	1. that there is no outstanding opposition towards the action, and
-	1. that they assume personal responsibility to practically reverse the action if required.
-1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
-1. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
+1. Any person may take action provided—
+	1. there is no outstanding opposition towards the action, and
+	1. they assume personal responsibility to practically reverse the action if required.
+1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
+1. Any person who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
 
 #### §10b. Unanimous Acceptance
@@ -182,7 +182,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
 
 #### §13c. Intervention
-1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
+1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, Members may intervene as a last resort.
 1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
