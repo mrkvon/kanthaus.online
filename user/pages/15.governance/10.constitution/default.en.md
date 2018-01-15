@@ -3,10 +3,10 @@ title: "Constitution"
 ---
 
 ### §1. Preamble
-Kanthaus is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
+Kanthaus is an open-entry common-space dedicated to the common good. It is governed in three layers—
 
-1. The Constitutional layer prescribes _who decides what should happen and how_. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
-1. The Collective layer prescribes _what should happen_. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
+1. The Constitutional layer outlines _who decides what should happen and how_. This includes core agreements such as Purposes, Positions and Procedures. Agreements at this level support and supersede agreements in the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
+1. The Collective layer outlines _what should happen_. This layer contains other formal agreements such as policies, schedules and best-practices. Agreements at this level support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
 1. The Operational layer describes _what actually happens_. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
 ### §2. Purposes
@@ -21,7 +21,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. Autonomy—minimize coercion,
 	1. Equivalence—minimize inequality, and
 	1. Acceptance—minimize conflict.
-1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those used by iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
+1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those used by iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those exhibited by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 ### §4. Resources
 1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](/governance/satzung_hauskantewurzen) (wirtschaftlicher Verein.)
@@ -112,11 +112,10 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. else the evaluation returns to point 2. as if the person had requested the next lower position (cf. §5).
 1. The person should promptly be informed whether their evaluation yielded a positive or negative result, but not the breakdown of which votes were cast. The main points that have been talked about without the person being present are to be conveyed as helpful feedback.
 
-
 ### §10. Operational Activity
 #### §10a. Individual Action
 1. Any person may take action provided—
-	1. there is no outstanding opposition towards the action, and
+	1. there is no outstanding opposition towards it, and
 	1. they assume personal responsibility to practically reverse the action if required.
 1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 1. Any person who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
