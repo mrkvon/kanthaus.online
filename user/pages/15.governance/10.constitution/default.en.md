@@ -30,8 +30,8 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. Haus Kante Wurzen w.V. itself. 
 
 ### §5. Positions
-1. Every person at Kanthaus has a position (one).
-1. The positions have proportional amounts responsibility and permissions, in ascending order these are—
+1. Every person at Kanthaus has a (one) position.
+1. The positions have proportional quantities of responsibilities and rights. In ascending order these are—
   1. Guest (§6),
   1. Volunteer (§7), and
   1. Member (§8).
@@ -39,7 +39,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 ### §6. Guest
 1. The position of Guest is intended for people who simply want to come by and spend some time in the space.
 1. A Guest may—
-	1. stay in the space and use its resources, and
+	1. reside in the space and use its resources, and
 	1. participate in Operational Activity.
 1. A person first becomes a Guest simply by arriving.
 1. A Guest is warmly recommended to—
@@ -63,8 +63,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. To become a Volunteer, a person should explicitly accept the Constitution and the Collective Agreements.
-1. A Volunteer should be evaluated (§9.) as soon as possible after 3 months (90 days). At their evaluation they may request to—
+1. A Volunteer should be evaluated (§9.) as soon as possible after 2 months (60 days). At their evaluation they may request to—
   1. return to Guest,
   1. continue as a Volunteer, or
   1. progress to Member.
@@ -78,14 +77,12 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Member may—
 	1. reside in the space and use the other Resources,
 	1. participate in Operational Activity, Collective Change and Constitutional Change,
-	1. participate in the selection of Volunteers and other Members, and
-	1. participate in Voluntary Assistance and Intervention during Conflict Resolution.
+	1. vote on other people becoming Volunteers or Members, and
+	1. participate in Voluntary Assistance and Intervention regarding Conflict Resolution.
 1. A Member should—
 	1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
 	1. contribute in some way to Wurzen and the wider world.
-1. In order to become a Member, a person must—
-	1. have resided in the space as a Volunteer for at least 28 days in total, and
-	1. reaffirm they understand and accept the Constitution and Collective Agreements.
+1. To become a Volunteer, a person should explicitly accept the Constitution and the Collective Agreements.
 1. A Member should be evaluated (§9.) as soon as possible after 6 months (180 days). At their evaluation they may request to—
   1. return to Guest,
   1. return to Volunteer, or
@@ -125,7 +122,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. If Unanimous Acceptance cannot be achieved in an acceptable time-frame, the individuals involved should proceed with Score Voting (§10c.). Proceeding to Score Voting should be done with Unanimous Acceptance, or failing that, by simple majority.
 
 #### §10c. Score Voting
-1. Individuals should discuss the current situation and generate alternative proposals. Two control proposals are added to the list—
+1. Individuals should discuss the current situation and generate alternative proposals. The proposals are then listed with the addition of two control proposals—
 	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
 	1. 'escalate procedure' (i.e. 'switch to Collective Change'.)
 1. The individuals then score the proposals as 'support’, ‘accept’ or ‘oppose'. The total score for each proposal is found by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3. The proposal with the highest total score is selected.
@@ -135,11 +132,10 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
 	1. has the support of at least 1 other Member or Volunteer, and
 	1. does not go against any other Collective Change made within the last 6 days.
-1. The primary phase of the procedure, lasts at least 3 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
-	1. the initial proposal and any alternative proposals,
-	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
-	1. an 'escalate procedure' control proposal (i.e. 'switch to Constitutional Change'.)
-1. The secondary phase of the procedure lasts at least 3 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of the secondary phase—
+1. The creation phase of the procedure lasts at least 3 days during which Volunteers and Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of two control proposals—
+	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
+	1. 'escalate procedure' (i.e. 'switch to Constitutional Change'.)
+1. The decision phase of the procedure lasts at least 3 days during which Volunteers and Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of the decision phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the adjusted scores for each proposal are totalled,
 	1. the proposal with the highest total is selected, and
@@ -150,19 +146,12 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
 	1. has the support of at least 2 other Members, and
 	1. does not go against any other Constitutional Change made within the last 28 days.
-1. The primary phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
-	1. the initial proposal and any other alternative proposals, and
-	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
-1. The secondary phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
+1. The creation phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of the 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
+1. The decision phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totaled,
-	1. the proposal with the highest total is selected, and
-	1. if the proposal now selected was also selected at a previous secondary phase—
-		1. the proposal becomes the final decision,
-		1. the Constitution should be amended to reflect this decision, and
-		1. the procedure of Constitutional Change is terminated. Or
-	1. else—
-		1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
+	1. the adjusted scores for each proposal are totalled, and
+  1. the proposal with the highest total is selected.
+1. A proposal becomes the final decision if selected in two consecutive rounds. This means that at least two creation phases and two decision phases are required for a decision, potentially more. When a decision is reached the Constitution should be amended to reflect this decision.
 
 ### §13. Conflict Resolution
 #### §13a. Direct
@@ -172,10 +161,10 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 #### §13b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
 1. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including—
-	1. a third-party individual supporting a single actor ('support person',)
-	1. a third-party individual supporting multiple actors ('direct bridge',)
-	1. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
-	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
+	1. an external individual supporting an involved individual ('support person',)
+	1. an external individual supporting multiple involved individuals ('direct bridge',)
+	1. support people engaging in dialogue on behalf of the involved individuals ('indirect bridge',) or
+	1. a group of external individuals attend a meeting of the involved individuals to witness and/or offer advice ('panel'.)
 
 #### §13c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, Members may intervene as a last resort.
