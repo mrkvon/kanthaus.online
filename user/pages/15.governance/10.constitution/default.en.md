@@ -11,7 +11,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 
 ### §2. Purposes
 1. To promote sharing and reduce waste.
-1. To develop free, libre and open-source software.
+1. To develop free and open-source software.
 1. To provide and connect public and common resources.
 1. To give what we can, take what need and facilitate others to do the same.
 1. To generally have a jolly good time.
@@ -30,14 +30,14 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. Haus Kante Wurzen w.V. itself. 
 
 ### §5. Positions
-1. Every person at Kanthaus has one position.
-1. Positions have proportional reponsibilities and permissions. In ascending order these are—
+1. Every person at Kanthaus has a position (one).
+1. The positions have proportional amounts responsibility and permissions, in ascending order these are—
   1. Guest (§6),
   1. Volunteer (§7), and
   1. Member (§8).
 
 ### §6. Guest
-1. The position of Guest is intended for people who simply want to come by and spend some time in the space or with its residents.
+1. The position of Guest is intended for people who simply want to come by and spend some time in the space.
 1. A Guest may—
 	1. reside in the space and use its resources, and
 	1. participate in Operational Activity.
@@ -51,8 +51,8 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
   1. progress to Volunteer.
 1. A person ceases to be a Guest—
 	1. if they progress to Volunteer,
-	1. if they request it, or
-	1. if decided upon through Conflict Resolution by Intervention (§13c.)
+	1. at their request, or
+	1. if decided upon by Conflict Resolution by Intervention (§13c.)
 
 ### §7. Volunteer
 1. The position of Volunteer is intended for people who are already involved and wish to become further committed.
@@ -71,7 +71,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A person ceases to be a Volunteer—
 	1. if they return to Guest or progress to Member,
 	1. at their request, or
-	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
+	1. if decided upon by Conflict Resolution by Intervention (§13c.)
 
 ### §8. Member
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
@@ -91,10 +91,9 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
   1. return to Volunteer, or
   1. continue as Member.
 1. A person ceases to be a Member—
-	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer),
-	1. if the obligatory revaluation of membership (§5.5) is unsuccessful,
-	1. at their request (automatically switching to Volunteer,) or
-	1. if a Conflict Resolution by Intervention (§13c.) prescribes it.
+	1. if they return to being a Guest or Volunteer,
+	1. at their request, or
+	1. if decided upon by Conflict Resolution by Intervention (§13c.)
 
 ### §9. Evaluation Procedure
 1. The person to be evaluated (herein 'the person') meets with the Volunteers and Members to have an informal discussion. This discussion consists of some or all of the following: The person—
