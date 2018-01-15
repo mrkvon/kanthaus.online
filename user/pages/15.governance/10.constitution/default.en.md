@@ -32,42 +32,44 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 ### §5. Positions
 1. Each resident in Kanthaus has one position.
 1. Positions are ordered hierarchically and come with different rights and duties.
-1. *Guest* (§6) is the lowest position. Every person coming to Kanthaus first is a Guest. Guests need to participate in an Evaluation Procedure (§9) after 14 days of residency. A guest can express the desire to become a Volunteer in or before their Evaluation.
-1. *Volunteer* (§7) is the middle position. Volunteers need to participate in an Evaluation Procedure (§9) 90 days after becoming or having been reaffirmed as a Volunteer. A Volunteer can express the desire to become a Member in or before their Evaluation.
-1. *Member* (§8) is the highest position. Members need to participate in an Evaluation Procedure (§9) 180 days after becoming or having been reaffirmed as a Member.
+1. *Guest* (§6) is the lowest position. Every person coming to Kanthaus first is a Guest.
+1. *Volunteer* (§7) is the middle position.
+1. *Member* (§8) is the highest position.
 
 ### §6. Guest
-1. The position of Guest is intended for individuals who simply want to come by and spend some time in the space or with its residents.
+1. The position of Guest is intended for people who simply want to come by and spend some time in the space or with its residents.
 1. A Guest may—
-	1. reside in the space and use items located within the space,
-	1. participate in Operational Activity,
-1. A Guest should—
-	1. help out with day-to-day tasks.
-1. In order to become a Guest, a person must—
-	1. have contact to any resident, preferably a Volunteer or Member, who invites them into the space.
-	1. read and understand the [Visitor's Document](../about/visiting).
+	1. reside in the space and use its resources, and
+	1. participate in Operational Activity.
+1. A Guest tacitly accepts the Constitution and Collective Agreements.
+1. A person first becomes a Guest simply by arriving. After this first time, a person becomes a Guest dependent on evaluation.
+1. Guests are warmly recommended to—
+	1. read the [Visitor's Document](../about/visiting), and
+  1. communicate with a resident, preferably a Volunteer or Member, before arriving.
+1. A Guest should be evaluated as soon as possible after 14 days during which they may request to—
+  1. continue as a Guest, or
+  1. progress to Volunteer.
 1. A person ceases to be a Guest—
-	1. if they become a Volunteer,
-	1. at their request, or
-	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
+	1. if they progree to Volunteer,
+	1. if they request it, or
+	1. if decided upon through Conflict Resolution by Intervention (§13c.)
 
 ### §7. Volunteer
-1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become further involved.
+1. The position of Volunteer is intended for people who have already been involved in the project and wish to become further involved.
 1. A Volunteer may—
-	1. reside in the space and use items located within the space,
-	1. participate in Operational Activity and change the Collective Agreements,
-	1. participate in the selection of other Volunteers, and
-	1. participate in Voluntary Assistance during Conflict Resolution.
+	1. reside in the space and use its resources,
+	1. participate in Operational Activity and change the Collective Agreements, and
+	1. vote on other people becoming Volunteers.
 1. A Volunteer should—
-	1. assume a portion of the responsibility for the space, and
+	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. In order to become a Volunteer, a person must—
-	1. have resided in the space for at least 14 days in total, and
-	1. understand and accept the Constitution and the Collective Agreements.
-1. A person becomes a Volunteer based on a successful outcome from an Evaluation Procedure in which only Members and Volunteers can vote.
+1. To become a Volunteer, a person must explicitly accept the Constitution and the Collective Agreements.
+1. A Volunteer should be evaluated as soon as possible after 90 days during which they may request to—
+  1. return to Guest,
+  1. continue as a Volunteer, or
+  1. progress to Member.
 1. A person ceases to be a Volunteer—
-	1. 90 days after becoming a Volunteer,
-	1. if they become a Member,
+	1. if they return to Guest or progress to Member,
 	1. at their request, or
 	1. if Conflict Resolution by Intervention (§13c.) prescribes it.
 
@@ -84,7 +86,10 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. In order to become a Member, a person must—
 	1. have resided in the space as a Volunteer for at least 28 days in total, and
 	1. reaffirm they understand and accept the Constitution and Collective Agreements.
-1. A person becomes a Member based on a successful outcome from an Evaluation Procedure in which only Members can vote.
+1. A Member should be evaluated as soon as possible after 180 days during which they may request to
+  1. return to Guest,
+  1. return to Volunteer, or
+  1. continue as Member.
 1. A person ceases to be a Member—
 	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer),
 	1. if the obligatory revaluation of membership (§5.5) is unsuccessful,
@@ -92,18 +97,21 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if a Conflict Resolution by Intervention (§13c.) prescribes it.
 
 ### §9. Evaluation Procedure
-1. Members, Volunteers and the individual to be evaluated (herein 'the individual') meet to have an informal discussion. This discussion consists of some or all of the following: The individual—
-	1. should indicate which position they desire.
+1. The person to be evaluated (herein 'the person') meets with the Volunteers and Members to have an informal discussion. This discussion consists of some or all of the following: The person—
+	1. should request which position they desire.
 	1. will be asked about the role they see for themselves in the space.
 	1. is encouraged to inquire about anything they still need more clarity about with regards to the space and its residents.
 	1. may be tested on their understanding of Constitution and/or Collective Agreements.
-1. Following the discussion with the individual, the respective voters should meet privately.
-1. Before further discussion, the voters should take an anonymous test vote on whether the individual should be adopted at their desired position. They can ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
-1. Now the voters should discuss and, in particular, raise and address any concerns.
-1. Finally the voters should take a binding vote in the same fashion as the test vote. This time—
-	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the evaluation is positive and the individual is granted their desired position, or
-	1. else the evaluation is negative at that time and the voting procedure starts anew for the respective lower position (cf. §5).
+1. Following the discussion with the person, the respective voters meet privately. Who votes depends on the position requested—
+  1. if the person requests to become a Guest or Volunteer then Volunteers and Members vote,
+  1. if the person requests to become a Member, only Members vote.
+1. Before any discussion, the voters take an anonymous test vote whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the person being adopted at their requested position.
+1. The voters should then discuss the person and Position they requested and, in particular, raise and address concerns.
+1. Finally the voters take a binding vote in the same way as the test vote. This time—
+	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the person is adopted at their requested position, or
+	1. else the evaluation returns to point 2. as if the person had requested the next lower position (cf. §5).
 1. The individual should promptly be informed whether their evaluation yielded a positive or negative result, but not the breakdown of which votes were cast. The main points that have been talked about without the individual being present are to be conveyed as helpful feedback.
+
 
 ### §10. Operational Activity
 #### §10a. Individual Action
