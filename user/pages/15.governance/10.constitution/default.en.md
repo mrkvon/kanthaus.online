@@ -129,7 +129,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
 	1. has the support of at least 1 other Member or Volunteer, and
 	1. does not go against any other Collective Change made within the last 6 days.
-1. The creation phase of the procedure lasts at least 3 days during which Volunteers and Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of two control proposals—
+1. The proposal phase of the procedure lasts at least 3 days during which Volunteers and Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of two control proposals—
 	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
 	1. 'escalate procedure' (i.e. 'switch to Constitutional Change'.)
 1. The decision phase of the procedure lasts at least 3 days during which Volunteers and Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of the decision phase—
@@ -143,12 +143,12 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
 	1. has the support of at least 2 other Members, and
 	1. does not go against any other Constitutional Change made within the last 28 days.
-1. The creation phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of the 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
+1. The proposal phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of the 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The decision phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the adjusted scores for each proposal are totalled, and
   1. the proposal with the highest total is selected.
-1. A proposal becomes the final decision if selected in two consecutive rounds. This means that at least two creation phases and two decision phases are required for a decision, potentially more. When a decision is reached the Constitution should be amended to reflect this decision.
+1. A proposal becomes the final decision if selected in two consecutive rounds. This means that at least two proposal phases and two decision phases are required for a decision, potentially more. When a decision is reached the Constitution should be amended to reflect this decision.
 
 ### §13. Conflict Resolution
 #### §13a. Direct
